@@ -12,10 +12,11 @@
 ### 👀 Profile Views
 <p align="center">
   <img
-    src="https://visitor-badge.laobi.icu/badge?page_id=amibordi.amibordi&style=for-the-badge&label=Profile%20Views&color=4CAF50"
+    src="https://komarev.com/ghpvc/?username=amibordi&label=Profile%20Views&color=4CAF50&style=for-the-badge"
     alt="Profile views"
   />
 </p>
+
 
 ---
 
