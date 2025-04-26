@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm [YourName]</h1>
+<h1 align="center">Hey 👋, I'm Amir Mohammad Bordbar</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=7F5AF0&center=true&vCenter=true&width=435&lines=Frontend+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Building+Beautiful+Websites+with+Next.js%2C+Tailwind+%26+TypeScript" />
@@ -8,19 +8,19 @@
 
 ### 👀 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourgithubusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourgithubusername" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yourgithubusername&style=flat-square&color=4CAF50" alt="Profile views" width="300" />
 </p>
 
 ---
 
 ### 🎨 What I Do
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKy8La9jTtKfuY0/giphy.gif" width="300" alt="designing websites" />
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="300" alt="designing websites" />
 </p>
 
-- 🚀 Building modern websites with **Next.js**, **TypeScript**, and **Tailwind CSS**
-- 🎨 Designing beautiful UI/UX experiences using **Figma**
-- ⚡ Always learning and pushing creative boundaries
+- 🚀 Building modern websites with **Next.js**, **TypeScript** & **Tailwind CSS**  
+- 🎨 Designing smooth UI/UX experiences in **Figma**  
+- ⚡ Always experimenting and leveling up
 
 ---
 
