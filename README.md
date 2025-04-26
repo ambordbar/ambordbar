@@ -1,49 +1,32 @@
-<h1 align="center">Hi 👋, I'm [YourName]</h1>
+<h1 align="center">Hey 👋, I'm [YourName]</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Dev%20%7C%20UI/UX%20Designer;Building%20sleek%20apps%20with%20Next.js%20+%20React%20+%20TS;Crafting%20smooth%20UX%20in%20Figma&center=true&size=24">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=7F5AF0&center=true&vCenter=true&width=435&lines=Frontend+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Building+Beautiful+Websites+with+Next.js%2C+Tailwind+%26+TypeScript" />
 </p>
 
 ---
 
-### 🛠️ My Tech Stack
+### 👀 Profile Views
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,figma,html,css,js" />
+  <img src="https://komarev.com/ghpvc/?username=yourgithubusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourgithubusername" />
 </p>
 
 ---
 
-### 🌟 GitHub Stats
+### 🎨 What I Do
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourgithubusername&theme=tokyonight" height="180px"/>
+  <img src="https://media.giphy.com/media/3o7TKy8La9jTtKfuY0/giphy.gif" width="300" alt="designing websites" />
 </p>
+
+- 🚀 Building modern websites with **Next.js**, **TypeScript**, and **Tailwind CSS**
+- 🎨 Designing beautiful UI/UX experiences using **Figma**
+- ⚡ Always learning and pushing creative boundaries
 
 ---
 
-### 🏆 GitHub Trophies
+### 📫 Connect with Me
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourgithubusername&theme=algolia&margin-w=8" />
-</p>
-
----
-
-### 👀 Visitor Counter
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourgithubusername&style=flat-square&color=blue" alt="yourgithubusername" />
-</p>
-
----
-
-### 🎮 Mini Game: Snake 🐍
-<p align="center">
-  <img src="https://github.com/yourgithubusername/yourgithubusername/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-### 📫 Let's Connect
-<p align="center">
-  <a href="https://t.me/amibordi"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://instagram.com/yourinstagramusername"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://t.me/amibordi"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://instagram.com/ami.bordi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
